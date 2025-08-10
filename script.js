@@ -34,6 +34,7 @@ function startGameOne() {
       }
     }
 
+    // Игра "Камень, ножницы, бумага"
     const playGameRockPaperScissors = () => {
       const choices = ["камень", "ножницы", "бумага"];
       
