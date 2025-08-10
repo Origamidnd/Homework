@@ -30,7 +30,7 @@ function filter(array, ruleFunction) {
 }
 
 console.log(filter([3, -4, 1, 9], isPositive)); // [3, 1, 9]
-
+ 
 const people = [
    {name: 'Глеб', gender: 'male'},
    {name: 'Анна', gender: 'female'},
